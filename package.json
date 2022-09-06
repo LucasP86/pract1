@@ -1,0 +1,23 @@
+{
+  "name": "test01",
+  "version": "1.0.0",
+  "description": "Trabajo practico N°1",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:LucasP86/pract1.git"
+  },
+  "author": "Lucas Paz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LucasP86/pract1/issues"
+  },
+  "homepage": "https://github.com/LucasP86/jemmys-adventure#readme",
+  "dependencies": {
+    "countries": "^1.0.2"
+  }
+}
